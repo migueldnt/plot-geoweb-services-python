@@ -1,0 +1,5 @@
+/entorno_python
+/.vscode
+*.pyc
+*-checkpoint.ipynb
+/test_files

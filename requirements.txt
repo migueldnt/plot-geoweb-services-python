@@ -1,0 +1,5 @@
+pyproj==2.6.0
+OWSLib==0.19.2
+matplotlib==3.2.1
+descartes==1.1.0
+geopandas==0.7.0
